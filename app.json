@@ -1,5 +1,6 @@
 {
-    "name": "Bottus",
+   "logo": "https://i.ibb.co/bH2Q185/it-pennywise.jpg",
+    "name": "🇱🇰🔱⚜ʙᴇɴɴʏᴡɪsᴇ™⚜️🔱🇱🇰",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -8,7 +9,7 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Enter whatsapp web session.",
+            "description": "QR එක මේතනට දේන්න.",
             "required": true
         },
         "SUDO": {
